@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Status-Completo-green">
 
-<img src="/public/assets/Feira-context.png>
+<img src="./public/assets/Feira-context.png>
 
 Feira context é uma feirinha onde você adiciona itens em um carrinho e compra retirando o valor do seu saldo ao final.
 
